@@ -37,7 +37,7 @@ button {
 }
 
 button:hover {
-    background: darkgreen;
+    background: rgb(36, 9, 192);
 }
 
 #message {
